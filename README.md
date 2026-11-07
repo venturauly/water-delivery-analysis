@@ -72,3 +72,8 @@ Note: the concentration analysis, the August–October period comparison, and th
 - The analysis is descriptive. Causes mentioned in the report are hypotheses, not established effects.
 
 See section 8 of the report for the full list of limitations.
+
+## Author
+Nurmagambet Akimbekov
+Email: venturauly@gmail.com
+Telegram: @venturauly
