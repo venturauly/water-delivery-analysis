@@ -1,5 +1,7 @@
 # Water Delivery Business: Sales, Customer and Operations Analysis
 
+**Languages:** [English](README.md) | [Русский](README.ru.md)
+
 SQL analysis of 7,245 order records from a bottled-water delivery business in Astana, Kazakhstan (29 Jul 2025 – 29 Oct 2026). The project turns raw CRM orders into findings about sales dynamics, customer behavior, and delivery workload, with practical recommendations.
 
 **Full report: [business_insights.md](business_insights.md)**
