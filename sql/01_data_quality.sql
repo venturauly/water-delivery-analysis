@@ -45,7 +45,7 @@ ORDER BY total_rows DESC;
 -- 01_05. Missing values in important columns
 
 SELECT
-    COUNT(*) FILTER (WHERE "Order" IS NULL) AS missing_order,
+    COUNT(*) FILTER (WHERE address_id IS NULL) AS missing_address_id,
     COUNT(*) FILTER (WHERE "Date" IS NULL) AS missing_date,
     COUNT(*) FILTER (WHERE "Status" IS NULL) AS missing_status,
     COUNT(*) FILTER (WHERE "Количество воды" IS NULL) AS missing_quantity,
